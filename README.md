@@ -52,8 +52,18 @@ The solution was developed in the following phases:
   - F1-Score: [Insert value]  
   - ROC-AUC Score: [Insert value]  
  
-## Contact
+## Insights forgiven project
+
+- The email should be sent to the user in between 20 to 25 hour range so it has a peak concentration on emails by the users.
+- Friday and Saturday weekdays has the low rate of clicking link and opening the emails so we can ignore these two weekdays and focus on other weekdays while sending the emails to the users.
+- Personalised emails are step forward than the general emails so personalised make a bit of related connexion for the user and the company so mostly prefer personalised mails.
+- As a short email gave a good results in Then the long mail so prefer using short emails with a in brief content so that the user cannot waste all the time by reading long mails the email should be sweet and short so he can understand the exact concept that you are delivering
+- The clients from UK and US are showing more interest on the company these two countries have the high link leaked rate and email opened
+- The purchase history of the users also impacts the emails Open and linked clicked
+
+
+
+# Contact
 
 Name: Lokam Vamsi Krishna  
-Email: lokamvamsikrishne@gmail.com  
-GitHub: [Insert your GitHub profile link here]
+Email: lokamvamsikrishne@gmail.com 
