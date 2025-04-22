@@ -44,13 +44,12 @@ The solution was developed in the following phases:
 
 ## Model Summary
 
-- Best Performing Model: [Insert model name here, e.g., XGBoost Classifier]  
-- Final Accuracy: [Insert value, e.g., 82.3 percent]  
+- Best Performing Model: Decission tree  
+- Final Accuracy: 97%  
 - Evaluation Metrics:  
-  - Precision: [Insert value]  
-  - Recall: [Insert value]  
-  - F1-Score: [Insert value]  
-  - ROC-AUC Score: [Insert value]  
+  - Precision: 0.64 
+  - Recall: 0.61 
+  - F1-Score: 0.62    
  
 ## Insights forgiven project
 
